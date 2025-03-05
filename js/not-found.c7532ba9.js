@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkdemo_shop"]=self["webpackChunkdemo_shop"]||[]).push([[757],{9997:function(e,t,o){o.r(t),o.d(t,{default:function(){return i}});var n=o(6768);function s(e,t){const o=(0,n.g2)("v-empty-state");return(0,n.uX)(),(0,n.Wv)(o,{headline:"Whoops, 404",title:"Page not found",text:"The page you were looking for does not exist",image:"https://vuetifyjs.b-cdn.net/docs/images/logos/v.png"})}var u=o(1241);const r={},a=(0,u.A)(r,[["render",s]]);var i=a}}]);
-//# sourceMappingURL=not-found.980944f3.js.map
+//# sourceMappingURL=not-found.c7532ba9.js.map
